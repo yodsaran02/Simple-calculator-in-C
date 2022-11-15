@@ -42,7 +42,7 @@ int main (void)
 		}
 		}
 	}	
-	printf("Answer = %d",answer);
+	printf("Answer = %d\n",answer);
 	return 0;
 }
 int check(char symbol)
